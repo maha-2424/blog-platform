@@ -23,3 +23,6 @@ A full-stack blog platform built using Django and Django REST Framework.
 
 - /api/posts/
 - /api/comments/
+
+## Live Demo
+https://blog-platform-6jwk.onrender.com
